@@ -1,12 +1,7 @@
 # Reflexon
 
-![](RackMultipart20210710-4-w7xnzc_html_c8a54b64d311ba5a.png)
+![image](drawable/bg4.jpg)
 
-#### **Submitted By**
-
-### Arushi Singla
-
-#### E20CSE086
 
 # Introduction
 
@@ -45,11 +40,6 @@ The game comprises of a matrix in which boxes randomly flash with colour one aft
 - Adding different difficulty levels -there are 3 different difficulty levels in the game to choose from.
 - Optimizing code
 
-![](RackMultipart20210710-4-w7xnzc_html_7d77f1c0b0fbffc6.png)
-
-![](RackMultipart20210710-4-w7xnzc_html_e0ad6c17d0732a52.png)
-
-![](RackMultipart20210710-4-w7xnzc_html_a5de6c7009ee7a9b.png) ![](RackMultipart20210710-4-w7xnzc_html_cccb582ebccffdac.png)
 
 # Project Aim
 
@@ -77,9 +67,7 @@ Revenue will be derived from in-app advertisements.
 - [Google Codelabs](https://developer.android.com/courses/fundamentals-training/overview-v2) :
 ###
 **Android Developer Fundamentals Course**
-- [Android Layout Design Tutorial](https://www.youtube.com/watch?v=PJ3RdfJ4Np8)
 - [Multithreading in Java](https://www.geeksforgeeks.org/multithreading-in-java/)
-- [Process and Threads](https://www.crio.do/learn/home/me/ME_PROCVTHREADS)
 - [Splash Screens](https://www.geeksforgeeks.org/android-creating-a-splash-screen/#:%7E:text=It%20is%20a%20constant%20screen,before%20the%20app%20loads%20completely.)
 
 # Conclusion:
