@@ -64,9 +64,7 @@ Revenue will be derived from in-app advertisements.
 # References
 
 - [Android Studio documentation](https://developer.android.com/docs)
-- [Google Codelabs](https://developer.android.com/courses/fundamentals-training/overview-v2) :
-###
-**Android Developer Fundamentals Course**
+- [Google Codelabs](https://developer.android.com/courses/fundamentals-training/overview-v2) : ###**Android Developer Fundamentals Course**
 - [Multithreading in Java](https://www.geeksforgeeks.org/multithreading-in-java/)
 - [Splash Screens](https://www.geeksforgeeks.org/android-creating-a-splash-screen/#:%7E:text=It%20is%20a%20constant%20screen,before%20the%20app%20loads%20completely.)
 
