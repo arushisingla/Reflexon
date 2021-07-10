@@ -1,6 +1,6 @@
 # Reflexon
 
-![image](app/src/main/res/drawable/logo6.jpg)
+![image](app/src/main/res/drawable/logo6.png)
 
 
 # Introduction
