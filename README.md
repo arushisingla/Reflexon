@@ -1,6 +1,6 @@
 # Reflexon
 
-![image](drawable/bg4.jpg)
+![image](res/drawable/bg4.jpg)
 
 
 # Introduction
