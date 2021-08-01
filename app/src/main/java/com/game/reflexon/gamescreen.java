@@ -38,7 +38,7 @@ public class gamescreen extends AppCompatActivity {
 
     int time;
 
-    volatile boolean isPlaying = true;
+    volatile boolean isPlaying = false;
     int n;
     int score = 0;
     GameThread obj = new GameThread();
@@ -95,6 +95,7 @@ public class gamescreen extends AppCompatActivity {
                     }
                 }
             }
+
         }
 
 
@@ -180,16 +181,16 @@ public class gamescreen extends AppCompatActivity {
         level = i.getStringExtra("key");
         switch (level) {
             case "Easy":
-                time = 1800;
+                time = 1400;
                 break;
             case "Medium":
-                time = 1400;
-                break;
-            case "Attempt at your risk":
                 time = 1000;
                 break;
+            case "Attempt at your risk":
+                time = 800;
+                break;
             default:
-                time = 1400;
+                time = 1000;
         }
 
     }
